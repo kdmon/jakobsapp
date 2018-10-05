@@ -23,7 +23,28 @@
 }
 
 .vader{
-  width: 50px;
-  height: 2000px;
-  background-size: cover
+  width:100%;
+  height:100%;
+  object-fit: cover;
+  overflow: hidden;
 }
+p {
+  margin:10px;
+}
+
+.star {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    background-color: white;
+  }
+  
+.boba {
+      background-color: white !important;
+      background-image: url('boba2.png');
+      width: -webkit-fill-available;
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: contain;
+      height: 600px
+  }
