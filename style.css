@@ -1,0 +1,29 @@
+.ui-page {
+  color: yellow !important;
+  background: black;
+}
+.ui-title {
+  color: yellow !important;
+ background: black !important;
+}
+.ui-header {
+  color: black !important;
+  background: black!important;
+}
+.ui-footer {
+  color: yellow !important;
+  background: black !important;
+}
+.ui-ol {
+  color: yellow !important;
+  background: yellow !important;
+}
+.ui-content {
+  color: yellow !important;
+}
+
+.vader{
+  width: 50px;
+  height: 2000px;
+  background-size: cover
+}
